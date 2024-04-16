@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Social Media Clone App**
 
-- 🌱 I’m currently learning **Express, Sql, Reactjs, mongoDB**
+- 🌱 I’m currently learning **Java, Springboot**
 
-- 💬 Ask me about **Frontend, JavaScript, Freelancing Opportunites, Open Source**
+- 💬 Ask me about **Frontend, JavaScript,Java,DSA ,Freelancing Opportunites, Open Source**
 
 - 📫 How to reach me **vithunshankar@gmail.com**
 
